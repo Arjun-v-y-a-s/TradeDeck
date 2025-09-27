@@ -1,0 +1,9 @@
+.anchorTag a{
+    text-decoration :none;
+    color :gray;
+    
+}
+.background{
+    background-color: rgb(230, 230, 230);
+    padding:20px 45px 45px 50px;
+}
